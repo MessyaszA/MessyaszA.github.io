@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello :) I'm Adriana a bioinformatician and microbial scientist who loves to collaborate and solve complex problems regarding data generation, analysis, and interpretation. 
+Hello :) I'm Adriana, a bioinformatician and microbial scientist who loves to collaborate and solve complex problems regarding data generation, analysis, and interpretation. 
 
 Bioinformatics (/ˌbaɪ.oʊˌɪnfərˈmætɪks/): “Bioinformatics, as related to genetics and genomics, is a scientific subdiscipline that involves using computer technology to collect, store, analyze and disseminate biological data and information, such as DNA and amino acid sequences or annotations about those sequences.” Source: https://www.genome.gov/genetics-glossary/Bioinformatics 
 
