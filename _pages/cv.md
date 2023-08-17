@@ -39,19 +39,19 @@ Work experience
 * Sept 2016 - Dec 2021: Graduate Research Assistant
   * Oregon State University, Corvallis: Department of Microbiology & Environmental Sciences Graduate Program
   * Projects:
-      * Viral Metagenomes and Microbiomes of Coral Reefs | Sept 2016 – Dec 2021
+      * Sept 2016 – Dec 2021: Viral Metagenomes and Microbiomes of Coral Reefs
           * Designed and managed time-sensitive microbiological experiments with field (20%), molecular laboratory (30%), and computational biology components (50%).
           * Utilized HPC to run numerous programs for Illumina shotgun sequence assembly and analysis.
           * Worked with deep sequencing metagenomic libraries (~70 million reads each) to discover novel viruses involved in host health.
           * Developed custom bioinformatic workflows to characterize viral sequences despite few and low-quality references.
           * Supervisor: Dr. Rebecca Vega Thurber
    
-       * COVID-19 Wastewater Monitoring | Oct 2020 – June 2021
+       * Oct 2020 – June 2021: COVID-19 Wastewater Monitoring
            * Conducted BSL2 level lab work to filter, extract, and quantify (RT-qPCR) SARS-CoV-2 RNA in wastewater within the City of Corvallis, OR.
            * Tracked SARS-CoV-2 detection rates across different areas of the city, identified seasonal trends of detection, and monitored the effectiveness of COVID-19 guidelines and restrictions.
            * Supervisor: Dr. Taal Levi
         
-       * Oregon Department of Fish & Wildlife Virology Internship | Sept 2017 – Dec 2017
+       * Sept 2017 – Dec 2017: Oregon Department of Fish & Wildlife Virology Internship
            * Participated in research studying Infectious hematopoietic necrosis virus (IHNV) infection in Chinook salmon.
            * Conducted field work to collect salmon organ samples (gill, kidney, and spleen) from spawning sites and processed and inoculated organ samples for viral analysis.
            * Worked with IHNV cultures to perform serial dilutions and plaque assays on various salmon cell cultures.
@@ -107,7 +107,7 @@ Service and leadership
 * Microbiology Student Association: Secretary 2019-2020, 2020-2021
 * Microbiology Seminar Committee, 2020-2021
 
-Interdisciplinary Experience
+Interdisciplinary experience
 ======
 * Sept 2018 – June 2019: NSF Research Traineeship Fellow
 * Oregon State University
